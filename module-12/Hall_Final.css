@@ -68,7 +68,7 @@ h1 {
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 16px 0 #FF9C8C;
 }
 
 footer {
@@ -101,7 +101,7 @@ footer a:hover {
      display: flex;
     flex-flow: row wrap;
     align-items: center;
-    margin-left: 20%;
+    margin-left: 12%;
     margin-bottom: 2%;
 }
 
